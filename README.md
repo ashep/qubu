@@ -5,8 +5,8 @@ QuBu is a simple database query builder for Python.
 
 ## Build status
 
-<!--[![Build Status](https://travis-ci.org/ashep/qubu.svg?branch=master)](https://travis-ci.org/ashep/qubu)-->
-<!--[![Coverage](https://codecov.io/gh/ashep/qubu/branch/master/graph/badge.svg)](https://codecov.io/gh/ashep/qubu)-->
+[![Build Status](https://travis-ci.org/ashep/qubu.svg?branch=master)](https://travis-ci.org/ashep/qubu)
+[![Coverage](https://codecov.io/gh/ashep/qubu/branch/master/graph/badge.svg)](https://codecov.io/gh/ashep/qubu)
 
 
 ## Features
