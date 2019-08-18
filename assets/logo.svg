@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="130mm"
+   height="130mm"
+   viewBox="0 0 130 130"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/ashep/src/my/qubu/assets/logo-256.png"
+   inkscape:export-xdpi="50.018459"
+   inkscape:export-ydpi="50.018459">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2343">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2339" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2341" />
+    </linearGradient>
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect1599"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2343"
+       id="linearGradient2345"
+       x1="23.247854"
+       y1="244.83784"
+       x2="31.576042"
+       y2="244.83784"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="167.76684"
+     inkscape:cy="287.51874"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-grids="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="1280"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.305552,-129.65347)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.2837286px;line-height:7.99999982%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffcfdc;fill-opacity:1;stroke:#e41459;stroke-width:5.50795126;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="134.23427"
+       y="203.21289"
+       id="text873"
+       transform="scale(1.0003867,0.99961344)"><tspan
+         sodipodi:role="line"
+         id="tspan871"
+         x="134.23427"
+         y="203.21289"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:82.2698288px;font-family:Courgette;-inkscape-font-specification:Courgette;fill:#ffcfdc;fill-opacity:1;stroke:#e41459;stroke-width:5.50795126;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:7.99999982%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="20.64695"
+       y="280.32181"
+       id="text2349"><tspan
+         sodipodi:role="line"
+         id="tspan2347"
+         x="20.64695"
+         y="281.25351"
+         style="stroke-width:0.26458332px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.03317785px;line-height:7.99999982%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.28436038px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="150.14679"
+       y="248.99854"
+       id="text4554"><tspan
+         sodipodi:role="line"
+         id="tspan4552"
+         x="150.14679"
+         y="248.99854"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.75417709px;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';stroke-width:0.28436038px">QuBu</tspan></text>
+  </g>
+</svg>
